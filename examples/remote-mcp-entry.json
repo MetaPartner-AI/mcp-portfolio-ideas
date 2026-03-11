@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mcp-portfolio-ideas": {
+      "url": "https://mcp-portfolio-ideas.metapartner.ai/mcp/sse/",
+      "transport": "sse",
+      "headers": {
+        "X-API-Key": "REPLACE_WITH_YOUR_KEY"
+      }
+    }
+  }
+}
+
